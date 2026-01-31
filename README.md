@@ -1,28 +1,25 @@
-## Hi there 👋
+### Hi, I'm Geusan
 
-You can hire me!
-as CTO or tech lead or any role
+Backend-leaning full-stack engineer in Seoul. I like building products end-to-end and thinking about architecture that stays maintainable as teams grow.
 
+#### Currently building
 
-## Tech I work with
+- Influencer marketing platform([Sesaame](https://sesaa.me)) — discovery, outreach, campaign management, performance tracking
+- `Next.js` · `Drizzle ORM` · `PostgreSQL` · `Airflow` · `AWS Lambda` · `Terraform`
+- AI-assisted development is part of my daily workflow — I write code with LLMs, structure repos for agent-friendly navigation, and actively explore how AI changes the way we ship software.
+- Claude Code Lover 🤖🩷
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+#### Side projects & explorations
 
+- **[go-clean-arch-chat-server](https://github.com/geusan/go-clean-arch-chat-server)** — Chat server in Go, structured with clean architecture
+- **[fastapi-clean-arch](https://github.com/geusan/fastapi-clean-arch)** — Same pattern applied to Python/FastAPI
+- **[flutter-clean-arch](https://github.com/geusan/flutter-clean-arch)** — And again in Flutter/Dart
 
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I keep revisiting clean architecture across different languages to see what holds up and what doesn't.
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+#### How I think about engineering
 
-![MySQL](https://shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
+- Simplicity over cleverness — code that a new team member can read in 10 minutes
+- Build first, abstract later — three similar lines > one premature abstraction
+- Ship the product, then refine the system
+- Treat AI as a multiplier — well-structured code and clear conventions make both humans and agents more productive
