@@ -7,7 +7,6 @@ Backend-leaning full-stack engineer in Seoul. I like building products end-to-en
 - Influencer marketing platform([Sesaame](https://sesaa.me)) — discovery, outreach, campaign management, performance tracking
 - `Next.js` · `Drizzle ORM` · `PostgreSQL` · `Airflow` · `AWS Lambda` · `Terraform`
 - AI-assisted development is part of my daily workflow — I write code with LLMs, structure repos for agent-friendly navigation, and actively explore how AI changes the way we ship software.
-- Claude Code Lover 🤖🩷
 
 #### Side projects & explorations
 
